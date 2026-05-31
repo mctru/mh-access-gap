@@ -1,0 +1,51 @@
+state,abbr,mh_hpsa_count,pop_in_hpsa_k,practitioners_needed,pct_need_met,rural_pct,treatment_gap_pct,psychiatrists_per_100k,region
+Alabama,AL,82,2840,142,22,72,58,4.2,South
+Alaska,AK,28,482,38,38,88,48,8.1,West
+Arizona,AZ,74,3820,198,28,52,52,5.8,West
+Arkansas,AR,68,1940,112,18,78,62,3.8,South
+California,CA,312,12800,582,42,38,44,9.2,West
+Colorado,CO,89,2640,148,48,62,42,10.4,West
+Connecticut,CT,24,980,48,68,28,38,14.2,Northeast
+Delaware,DE,8,310,18,72,32,36,12.8,South
+Florida,FL,198,8420,398,32,48,54,6.2,South
+Georgia,GA,148,5280,268,28,58,56,5.4,South
+Hawaii,HI,18,580,28,62,42,38,12.1,West
+Idaho,ID,52,892,62,22,88,62,4.8,West
+Illinois,IL,164,5640,298,38,42,46,8.4,Midwest
+Indiana,IN,112,3280,168,32,58,54,6.2,Midwest
+Iowa,IA,78,1420,88,42,72,48,6.8,Midwest
+Kansas,KS,72,1380,82,38,68,52,6.4,Midwest
+Kentucky,KY,98,2480,142,22,78,62,4.8,South
+Louisiana,LA,102,2620,148,24,62,58,5.2,South
+Maine,ME,38,820,52,52,82,42,12.4,Northeast
+Maryland,MD,62,1920,98,58,32,40,11.2,South
+Massachusetts,MA,48,1480,72,72,22,36,16.8,Northeast
+Michigan,MI,148,4280,212,38,52,50,7.8,Midwest
+Minnesota,MN,92,2520,128,52,62,44,9.2,Midwest
+Mississippi,MS,88,2180,112,14,88,68,3.2,South
+Missouri,MO,118,3040,158,28,62,54,6.4,Midwest
+Montana,MT,42,582,48,32,92,58,6.8,West
+Nebraska,NE,56,920,62,42,78,48,7.2,Midwest
+Nevada,NV,52,1420,82,28,62,56,5.8,West
+New Hampshire,NH,22,580,38,62,72,40,11.8,Northeast
+New Jersey,NJ,78,2480,128,48,28,42,10.2,Northeast
+New Mexico,NM,62,1240,78,18,72,62,5.4,West
+New York,NY,198,6820,348,52,32,40,14.8,Northeast
+North Carolina,NC,148,5180,268,28,68,52,6.8,South
+North Dakota,ND,28,392,22,42,88,48,7.2,Midwest
+Ohio,OH,168,4820,248,32,52,52,7.8,Midwest
+Oklahoma,OK,88,2380,128,22,78,62,5.2,South
+Oregon,OR,72,2180,118,48,72,44,8.8,West
+Pennsylvania,PA,148,5040,268,38,52,46,9.4,Northeast
+Rhode Island,RI,12,312,18,72,28,36,13.8,Northeast
+South Carolina,SC,92,2680,148,24,68,58,5.4,South
+South Dakota,SD,32,482,28,38,88,62,5.8,Midwest
+Tennessee,TN,112,3480,178,22,62,56,5.8,South
+Texas,TX,388,14800,682,28,62,58,5.2,South
+Utah,UT,68,2180,118,42,72,48,6.8,West
+Vermont,VT,18,342,22,68,82,38,14.2,Northeast
+Virginia,VA,118,3820,198,42,58,46,8.8,South
+Washington,WA,112,3820,198,52,52,44,10.4,West
+West Virginia,WV,78,1082,62,18,88,68,4.2,South
+Wisconsin,WI,102,2820,148,42,62,48,8.8,Midwest
+Wyoming,WY,22,282,18,38,92,62,5.8,West
